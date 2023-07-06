@@ -1,0 +1,4 @@
+---
+# vars file 
+jenkins_Repo: "https://pkg.jenkins.io/redhat-stable/jenkins.repo"
+jenkins_key: "https://pkg.jenkins.io/redhat-stable/jenkins.io-2023.key"

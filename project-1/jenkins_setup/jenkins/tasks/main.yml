@@ -1,0 +1,4 @@
+---
+# tasks file for Jenkins_server
+ - include: docker_install.yml
+ - include: Jenkins_install.yml
