@@ -29,4 +29,4 @@ I Created an ansible Playbook that will install on the EC2 the CI/CD tool Jenkin
 Showing that the Login page with the EC2 instance public ip address is sufficient.
 And Installed on the same Ec2 a docker engine.
 
-ALL IN ONE CLICK VIA "TERRAFORM"
+ALL IN ONE CLICK VIA "TERRAFORM" & "ANSIBLE"
