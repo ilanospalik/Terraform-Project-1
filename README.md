@@ -1,5 +1,4 @@
 # Terraform-Project-1
-# Terraform_Project-1
 
 The purpose of the project is to create a full Devops work environment with several tools
 already integrated into an EC2 instance on AWS using Terraform AND Ansible.
