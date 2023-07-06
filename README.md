@@ -27,6 +27,6 @@ Using Ansible
 
 I Created an ansible Playbook that will install on the EC2 the CI/CD tool Jenkins on port 8080.
 Showing that the Login page with the EC2 instance public ip address is sufficient.
-I Installed on the same Ec2 docker engine.
+And Installed on the same Ec2 a docker engine.
 
 ALL IN ONE CLICK VIA "TERRAFORM"
