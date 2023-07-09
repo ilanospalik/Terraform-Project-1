@@ -23,7 +23,7 @@ resource "aws_instance" "jenkins_server" {
     inline = [
       "sudo amazon-linux-extras install ansible2 -y",
       "sudo yum install git -y",
-      "git clone https://github.com/KavyaPallamreddy/jenkins_setup_ansible.git /tmp/Jenkins_ansibe_role",
+      "git clone https://github.com/ilanospalik/jenkins_setup_ansible.git /tmp/Jenkins_ansibe_role",
       "ansible-playbook  /tmp/Jenkins_ansibe_role/playbook.yaml",
       "sudo chmod +x /tmp/Jenkins_ansibe_role/Adding_path_to_bash_profile.sh /tmp/Jenkins_ansibe_role/search_java_maven_paths.py",
       "sudo /tmp/Jenkins_ansibe_role/Adding_path_to_bash_profile.sh"
