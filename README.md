@@ -25,8 +25,8 @@ Alert that will notify you when the EC2 is turn on and when it turned off, via S
 
 Using Ansible:
 
-Created an ansible Playbook that will install on the EC2 the CI/CD tool Jenkins on port 8080.
-Showing that the Login page with the EC2 instance public ip address is sufficient.
-And Installed on the same Ec2 a docker engine.
+Created a repository in my github that gonna diploy an ansible Playbook, the playbook will install on the EC2 the CI/CD tool Jenkins that listen on port 8080.
+Showing that the Login page with in the EC2 instance public ip address is sufficient.
+And Installing on the same Ec2 a docker engine.
 
 ALL IN ONE CLICK VIA "TERRAFORM" & "ANSIBLE"
